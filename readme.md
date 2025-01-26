@@ -1,4 +1,5 @@
 # Thai Lottery Digit Prediction 🎫
+![Image](https://github.com/user-attachments/assets/f254cce4-8562-4a9c-af49-78f0420b7916)
 
 This project leverages machine learning to predict the next digits of the Thai Lottery based on historical data. It uses a Random Forest model to forecast the most probable numbers, providing users with insights into potential lottery outcomes.
 
